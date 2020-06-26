@@ -1,2 +1,2 @@
-# STARcade-Lets-Shop
-Buy Your Customised Computer With Some Simple Steps.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
